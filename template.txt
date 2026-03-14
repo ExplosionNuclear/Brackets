@@ -1,0 +1,31 @@
+Determine if the bracket sequence is correctly balanced.
+
+Sequence: ( ) [ ]
+Balanced: Yes
+
+Sequence: ( [ ) ]
+Balanced: No
+
+Sequence: {{ ( ) }}
+Balanced: Yes
+
+Sequence: [ ( ] )
+Balanced: No
+
+Sequence: [ [ ] ( ) ]
+Balanced: Yes
+
+Sequence: {{ [ }} ]
+Balanced: No
+
+Sequence: ( {{ [ ] }} )
+Balanced: Yes
+
+Sequence: ( ) ) (
+Balanced: No
+
+Sequence: {{ }} ( [ ] )
+Balanced: Yes
+
+Sequence: {sequence}
+Balanced: 
